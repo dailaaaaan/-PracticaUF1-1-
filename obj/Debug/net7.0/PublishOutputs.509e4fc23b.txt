@@ -1,0 +1,5 @@
+C:\Users\Dailan\Desktop\-PracticaUF1-1-\bin\Debug\net7.0\publish\-PracticaUF1-1-.exe
+C:\Users\Dailan\Desktop\-PracticaUF1-1-\bin\Debug\net7.0\publish\-PracticaUF1-1-.dll
+C:\Users\Dailan\Desktop\-PracticaUF1-1-\bin\Debug\net7.0\publish\-PracticaUF1-1-.deps.json
+C:\Users\Dailan\Desktop\-PracticaUF1-1-\bin\Debug\net7.0\publish\-PracticaUF1-1-.runtimeconfig.json
+C:\Users\Dailan\Desktop\-PracticaUF1-1-\bin\Debug\net7.0\publish\-PracticaUF1-1-.pdb

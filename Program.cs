@@ -10,5 +10,7 @@
         Console.WriteLine("Dame el segundo numero: ");
         NumeroUsuario2=Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(total = NumeroUsuario1 + NumeroUsuario2);
+        Console.WriteLine("si quieres cerrarlo pulsa una tecla");
+        Console.ReadKey();
     }
 }
